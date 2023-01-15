@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Cole_Thomas_The_Course_of_Empire_Destruction_1836.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Cole_Thomas_The_Course_of_Empire_Destruction_1836@2x.jpeg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Cole_Thomas_The_Course_of_Empire_Destruction_1836@3x.jpeg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
